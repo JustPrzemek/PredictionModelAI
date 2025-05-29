@@ -1,0 +1,5 @@
+.idea/*
+!.idea/modules.xml
+!.idea/.name
+!.idea/misc.xml
+!.idea/vcs.xml
